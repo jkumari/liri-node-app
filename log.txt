@@ -2278,3 +2278,21 @@ liri command: movie-this  Toy story2
 
 Movie not Found!
 =======================================================================================================
+liri command: movie-this
+=======================================================================================================
+liri command: movie-this Incredible
+
+=======================================================================================================
+liri command: movie-this Incredible
+=======================================================================================================
+Title: The Incredible Hulk
+Year movie was released: 2008
+IMDB movie rating (out of 10): 6.7
+Internet Movie Database Rating (out of 10): 6.7/10
+Filmed in: USA, Canada
+Language: English, Portuguese, Spanish
+Movie plot: Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into, whenever he loses his temper.
+Actors: Edward Norton, Liv Tyler, Tim Roth, William Hurt
+=======================================================================================================
+Movie not Found!
+=======================================================================================================
