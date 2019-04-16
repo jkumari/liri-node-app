@@ -10,7 +10,12 @@
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
     "twitter": "^1.7.1",
-    "extend": ">=3.0.2"
+    "extend": ">=3.0.2",
+    "deep-extend": ">=0.5.1",
+    "cryptiles": ">=4.1.2",
+    "sshpk": ">=1.13.2",
+    "lodash": ">=4.17.11",
+    "hoek": ">=4.2.1"
   },
   "devDependencies": {},
   "scripts": {
